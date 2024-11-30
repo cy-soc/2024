@@ -1,2 +1,2 @@
-# 2023
-CySoc 2023 website.
+# 2024
+CySoc 2024 website.
